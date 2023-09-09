@@ -1,0 +1,183 @@
+
+/******************************colors******************************/
+
+.couleur {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    border: 2px solid;
+    margin: 3px;
+    padding: 25px 40px 25px ;
+    position: static;
+    align-items: center;
+}
+h1:hover,h2:hover {
+    cursor: pointer;
+    color: lightblue;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.grd1 {
+    text-align: center;
+    color: skyblue;
+    width: 50px;
+    height: 200px;
+    align-items: center;
+    border: 1px solid skyblue;
+    padding-top: 185px;
+} 
+.grd1:hover { 
+    background-color: skyblue;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 10px 20px gray;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.grd2 {
+    text-align: center;
+    color: rgb(135, 155, 235);
+    width: 50px;
+    height: 200px;
+    align-items: center;
+    border: 1px solid rgb(135, 155, 235);
+    padding-top: 185px;
+} 
+.grd2:hover { 
+    background-color: rgb(135, 155, 235);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 10px 20px gray;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.grd3 {
+    text-align: center;
+    color: rgb(182, 135, 235);
+    width: 50px;
+    height: 200px;
+    align-items: center;
+    border: 1px solid rgb(182, 135, 235);
+    padding-top: 185px;
+} 
+.grd3:hover { 
+    background-color: rgb(182, 135, 235);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 10px 20px gray;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.grd4 {
+    text-align: center;
+    color: rgb(227, 135, 235);
+    width: 50px;
+    height: 200px;
+    align-items: center;
+    border: 1px solid rgb(227, 135, 235);
+    padding-top: 185px;
+} 
+.grd4:hover { 
+    background-color: rgb(227, 135, 235);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 10px 20px gray;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.grd5 {
+    text-align: center;
+    color: rgb(235, 135, 188);
+    width: 50px;
+    height: 200px;
+    align-items: center;
+    border: 1px solid rgb(235, 135, 188);
+    padding-top: 185px;
+} 
+.grd5:hover { 
+    background-color: rgb(235, 135, 188);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 10px 20px gray;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.grd6 {
+    text-align: center;
+    color: rgb(235, 135, 135);
+    width: 50px;
+    height: 200px;
+    align-items: center;
+    border: 1px solid rgb(235, 135, 135);
+    padding-top: 185px;
+} 
+.grd6:hover { 
+    background-color: rgb(235, 135, 135);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 10px 20px gray;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+/*********************************fonts styes*********************************/
+
+.Fonts {
+    border: 2px solid ;
+    margin: 3px;
+    padding: 25px 70px 25px ;
+
+}
+
+.ff1 {
+    font-family: "Source Code Pro";
+}
+
+.ff2 {
+    font-family: Poppins;
+}
+
+.ff3 {
+    font-family: "Nunito Sans";
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h3:hover {
+    color: aqua;
+    cursor: pointer;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.em {
+    font-style: italic;
+}
+
+/*********************************Text Styles*********************************/
+
+.Textstyles {
+    border: 2px solid;
+    margin: 3px;
+    padding: 25px 70px 25px ;
+
+}
+
+#h1s {
+    text-align: left;
+}
+
+.ps:hover {
+    cursor: pointer;
+    color: lightblue;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
