@@ -20,10 +20,10 @@ h1:hover,h2:hover {
 .grd1 {
     text-align: center;
     color: skyblue;
-    width: 50px;
+    width: 60px;
     height: 200px;
     align-items: center;
-    border: 1px solid skyblue;
+    border: 1px solid rgb(135, 206, 235);
     padding-top: 185px;
 } 
 .grd1:hover { 
@@ -37,14 +37,14 @@ h1:hover,h2:hover {
 .grd2 {
     text-align: center;
     color: rgb(135, 155, 235);
-    width: 50px;
+    width: 60px;
     height: 200px;
     align-items: center;
     border: 1px solid rgb(135, 155, 235);
     padding-top: 185px;
 } 
 .grd2:hover { 
-    background-color: rgb(135, 155, 235);
+    background-color: #879beb;
     color: white;
     border-radius: 20px;
     box-shadow: 10px 20px gray;
@@ -54,14 +54,14 @@ h1:hover,h2:hover {
 .grd3 {
     text-align: center;
     color: rgb(182, 135, 235);
-    width: 50px;
+    width: 60px;
     height: 200px;
     align-items: center;
     border: 1px solid rgb(182, 135, 235);
     padding-top: 185px;
 } 
 .grd3:hover { 
-    background-color: rgb(182, 135, 235);
+    background-color: #b687eb;
     color: white;
     border-radius: 20px;
     box-shadow: 10px 20px gray;
@@ -71,14 +71,14 @@ h1:hover,h2:hover {
 .grd4 {
     text-align: center;
     color: rgb(227, 135, 235);
-    width: 50px;
+    width: 60px;
     height: 200px;
     align-items: center;
     border: 1px solid rgb(227, 135, 235);
     padding-top: 185px;
 } 
 .grd4:hover { 
-    background-color: rgb(227, 135, 235);
+    background-color: #e387eb;
     color: white;
     border-radius: 20px;
     box-shadow: 10px 20px gray;
@@ -88,14 +88,14 @@ h1:hover,h2:hover {
 .grd5 {
     text-align: center;
     color: rgb(235, 135, 188);
-    width: 50px;
+    width: 60px;
     height: 200px;
     align-items: center;
     border: 1px solid rgb(235, 135, 188);
     padding-top: 185px;
 } 
 .grd5:hover { 
-    background-color: rgb(235, 135, 188);
+    background-color: #eb87bc;
     color: white;
     border-radius: 20px;
     box-shadow: 10px 20px gray;
@@ -105,14 +105,14 @@ h1:hover,h2:hover {
 .grd6 {
     text-align: center;
     color: rgb(235, 135, 135);
-    width: 50px;
+    width: 60px;
     height: 200px;
     align-items: center;
     border: 1px solid rgb(235, 135, 135);
     padding-top: 185px;
 } 
 .grd6:hover { 
-    background-color: rgb(235, 135, 135);
+    background-color: #eb8787;
     color: white;
     border-radius: 20px;
     box-shadow: 10px 20px gray;
